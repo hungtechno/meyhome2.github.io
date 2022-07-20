@@ -1,0 +1,99 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="crystal-view2.com" resolutions="1x" timestamp="1657460653365">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="crystal-canhovib.css" crc="4223763188" ref="crystal-canhovib"/>
+    <file name="index.css" crc="4259236411" ref="index"/>
+    <file name="crystal-baidoxelon.css" crc="127876309" ref="crystal-baidoxelon"/>
+    <file name="crystal-clubhouse-violet.css" crc="3862073169" ref="crystal-clubhouse-violet"/>
+    <file name="crystal-riversidepark.css" crc="1652000" ref="crystal-riversidepark"/>
+    <file name="crystal-coquanhanhchinh.css" crc="46741881" ref="crystal-coquanhanhchinh"/>
+    <file name="crystal-tttm.css" crc="3854106149" ref="crystal-tttm"/>
+    <file name="crystal-truongquocte.css" crc="4100536729" ref="crystal-truongquocte"/>
+    <file name="crystal-clubhouse-marine.css" crc="33654831" ref="crystal-clubhouse-marine"/>
+    <file name="crystal-centerpark.css" crc="4007955863" ref="crystal-centerpark"/>
+    <file name="crystal-clubhouse-tiger.css" crc="4085732730" ref="crystal-clubhouse-tiger"/>
+    <file name="crystal-chinhsachbanhang.css" crc="4237294860" ref="crystal-chinhsachbanhang"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:crystal-baidoxelon:crystal-centerpark:crystal-clubhouse-marine:crystal-clubhouse-tiger:crystal-clubhouse-violet:crystal-coquanhanhchinh:crystal-riversidepark:crystal-truongquocte:crystal-tttm:crystal-chinhsachbanhang:crystal-canhovib"/>
+    <file name="museutils.js" crc="340535759" ref="index:crystal-baidoxelon:crystal-centerpark:crystal-clubhouse-marine:crystal-clubhouse-tiger:crystal-clubhouse-violet:crystal-coquanhanhchinh:crystal-riversidepark:crystal-truongquocte:crystal-tttm:crystal-chinhsachbanhang:crystal-canhovib"/>
+    <file name="whatinput.js" crc="86476730" ref="index:crystal-baidoxelon:crystal-centerpark:crystal-clubhouse-marine:crystal-clubhouse-tiger:crystal-clubhouse-violet:crystal-coquanhanhchinh:crystal-riversidepark:crystal-truongquocte:crystal-tttm:crystal-chinhsachbanhang:crystal-canhovib"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:crystal-baidoxelon:crystal-centerpark:crystal-clubhouse-marine:crystal-clubhouse-tiger:crystal-clubhouse-violet:crystal-coquanhanhchinh:crystal-riversidepark:crystal-truongquocte:crystal-tttm:crystal-chinhsachbanhang:crystal-canhovib"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:crystal-baidoxelon:crystal-centerpark:crystal-clubhouse-marine:crystal-clubhouse-tiger:crystal-clubhouse-violet:crystal-coquanhanhchinh:crystal-riversidepark:crystal-truongquocte:crystal-tttm:crystal-chinhsachbanhang:crystal-canhovib"/>
+    <file name="require.js" crc="7928878" ref="index:crystal-baidoxelon:crystal-centerpark:crystal-clubhouse-marine:crystal-clubhouse-tiger:crystal-clubhouse-violet:crystal-coquanhanhchinh:crystal-riversidepark:crystal-truongquocte:crystal-tttm:crystal-chinhsachbanhang:crystal-canhovib"/>
+  </folder>
+  <folder name="images">
+    <file name="crystal-tongquan-1.jpg" crc="452626580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crystal-tongquan-2.jpg" crc="3764136695" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crystal-view2-baidoxe.jpg" crc="131814305" seo="true" ref="crystal-baidoxelon">
+      <caption webpage="crystal-baidoxelon" alt=""/>
+    </file>
+    <file name="crystal-view2-centerpark.jpg" crc="4109782099" seo="true" ref="crystal-centerpark">
+      <caption webpage="crystal-centerpark" alt=""/>
+    </file>
+    <file name="crystal-view2-clubhouse-marine-1.jpg" crc="3836428568" seo="true" ref="crystal-clubhouse-marine">
+      <caption webpage="crystal-clubhouse-marine" alt=""/>
+    </file>
+    <file name="crystal-view2-clubhouse-marine-2.jpg" crc="337001228" seo="true" ref="crystal-clubhouse-marine">
+      <caption webpage="crystal-clubhouse-marine" alt=""/>
+    </file>
+    <file name="crystal-view2-clubhouse-marine-3.jpg" crc="93283809" seo="true" ref="crystal-clubhouse-marine">
+      <caption webpage="crystal-clubhouse-marine" alt=""/>
+    </file>
+    <file name="crystal-view2-clubhouse-tiger-1.jpg" crc="296690886" seo="true" ref="crystal-clubhouse-tiger">
+      <caption webpage="crystal-clubhouse-tiger" alt=""/>
+    </file>
+    <file name="crystal-view2-clubhouse-tiger-2.jpg" crc="4241652436" seo="true" ref="crystal-clubhouse-tiger">
+      <caption webpage="crystal-clubhouse-tiger" alt=""/>
+    </file>
+    <file name="crystal-view2-clubhouse-violet-1.jpg" crc="3990514938" seo="true" ref="crystal-clubhouse-violet">
+      <caption webpage="crystal-clubhouse-violet" alt=""/>
+    </file>
+    <file name="crystal-view2-coquanhanhchinh.jpg" crc="4166258275" seo="true" ref="crystal-coquanhanhchinh">
+      <caption webpage="crystal-coquanhanhchinh" alt=""/>
+    </file>
+    <file name="crystal-view2-reversidepark.jpg" crc="266573231" seo="true" ref="crystal-riversidepark">
+      <caption webpage="crystal-riversidepark" alt=""/>
+    </file>
+    <file name="crystal-view2-truongquocte.jpg" crc="245700610" seo="true" ref="crystal-truongquocte">
+      <caption webpage="crystal-truongquocte" alt=""/>
+    </file>
+    <file name="crystal-view2-tttm.jpg" crc="4292986322" seo="true" ref="crystal-tttm">
+      <caption webpage="crystal-tttm" alt=""/>
+    </file>
+    <file name="csbh tháng 7-1.jpg" crc="4045247388" seo="true" ref="crystal-chinhsachbanhang">
+      <caption webpage="crystal-chinhsachbanhang" alt=""/>
+    </file>
+    <file name="csbh tháng 7-2.jpg" crc="4174702872" seo="true" ref="crystal-chinhsachbanhang">
+      <caption webpage="crystal-chinhsachbanhang" alt=""/>
+    </file>
+    <file name="csbh tháng 7-3.jpg" crc="238515104" seo="true" ref="crystal-chinhsachbanhang">
+      <caption webpage="crystal-chinhsachbanhang" alt=""/>
+    </file>
+    <file name="csbh tháng 7-4.jpg" crc="4013600571" seo="true" ref="crystal-chinhsachbanhang">
+      <caption webpage="crystal-chinhsachbanhang" alt=""/>
+    </file>
+    <file name="crystal-layout1.jpg" crc="4222427655" seo="true" ref="crystal-canhovib">
+      <caption webpage="crystal-canhovib" alt=""/>
+    </file>
+    <file name="crystal-layout2.jpg" crc="396809087" seo="true" ref="crystal-canhovib">
+      <caption webpage="crystal-canhovib" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="189054782" seo="true" mt="1657459680822" redirect="true"/>
+  <file name="crystal-baidoxelon.html" crc="4239930879" seo="true" mt="1657460176981" redirect="true"/>
+  <file name="crystal-centerpark.html" crc="4244972919" seo="true" mt="1657460208259" redirect="true"/>
+  <file name="crystal-clubhouse-marine.html" crc="471010769" seo="true" mt="1657460276327" redirect="true"/>
+  <file name="crystal-clubhouse-tiger.html" crc="4218321673" seo="true" mt="1657460351999" redirect="true"/>
+  <file name="crystal-clubhouse-violet.html" crc="4076677264" seo="true" mt="1657460380132" redirect="true"/>
+  <file name="crystal-coquanhanhchinh.html" crc="4046713820" seo="true" mt="1657460402501" redirect="true"/>
+  <file name="crystal-riversidepark.html" crc="34867172" seo="true" mt="1657460427677" redirect="true"/>
+  <file name="crystal-truongquocte.html" crc="498995491" seo="true" mt="1657460456099" redirect="true"/>
+  <file name="crystal-tttm.html" crc="505918163" seo="true" mt="1657460479131" redirect="true"/>
+  <file name="crystal-chinhsachbanhang.html" crc="3817349396" seo="true" mt="1657446405919" redirect="true"/>
+  <file name="crystal-canhovib.html" crc="3903718153" seo="true" mt="1657460549086" redirect="true"/>
+</manifest>
